@@ -1,12 +1,13 @@
-Air Quality Dashboard
+# Air Quality Dashboard
 
-A simple Air Quality Dashboard built using HTML, CSS, JavaScript, and API integration.
+A simple and interactive Air Quality Dashboard built using HTML, CSS, and JavaScript with API integration.
 
- ## Features
+## Features
 - Search air quality by city
-- Display AQI data
-- Show air quality information clearly
-- Interactive and user-friendly interface
+- Display AQI value
+- Show air quality information in a clean dashboard
+- User-friendly interface
+- Live project hosted on GitHub Pages
 
 ## Technologies Used
 - HTML
@@ -15,7 +16,10 @@ A simple Air Quality Dashboard built using HTML, CSS, JavaScript, and API integr
 - API
 
 ## Live Demo
-https://shivammishra2807.github.io/air-quality-dashboard/
+[Click here to view the project](https://shivammishra2807.github.io/air-quality-dashboard/)
+
+## GitHub Repository
+[Click here to view the code](https://github.com/ShivamMishra2807/air-quality-dashboard)
 
 ## Author
-Shivam Mishra
+**Shivam Mishra**
