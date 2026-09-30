@@ -22,4 +22,4 @@ A simple and interactive Air Quality Dashboard built using HTML, CSS, and JavaSc
 [Click here to view the code](https://github.com/ShivamMishra2807/air-quality-dashboard)
 
 ## Author
-**Shivam Mishra**
+Shivam Mishra
